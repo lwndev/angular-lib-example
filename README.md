@@ -1,4 +1,4 @@
-Angular Library Example
+# Angular Library Example
 ---
 
 ## About
