@@ -1,0 +1,16 @@
+{
+  "author": "Leif Nelson",
+  "name": "angular-lib-example",
+  "description": "An example project used to demonstrate a sharable library.  Based on the angular-ui project found at https://github.com/angular-ui/ui-utils",
+  "version": "0.0.1",
+  "homepage": "http:://www.github.com/lwndev",
+  "main": "./modules/lib.example.js",
+  "dependencies": {
+    "angular": ">= 1.0.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.0.5",
+    "jquery": ">=1.6",
+    "angular-ui-docs": "angular-ui/angular-ui-docs"
+  }
+}
